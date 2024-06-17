@@ -39,8 +39,8 @@ Para jogar Leo´s Game é muito simples, as unicas funcionalidades são mover o 
 Funcionalidades: As funcionalidades desenvolvidas foram a criação de dia/noite, onde possui um intervalo de 60 segundo entre os dois e a criação de trovões, na qual é disparado em momentos aleatórios para deixar o jogo mais tenso.
 
 Código Dia/Noite:
-using UnityEngine;
 
+using UnityEngine;
 public class DayNightCycle : MonoBehaviour
 {
     public Light directionalLight;
