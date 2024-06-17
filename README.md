@@ -1,5 +1,7 @@
 # Leo-s-Games
 O arquivo compactadodo é maior do que o permitido para subir aqui no git, por esse motivo não consegui subi-lo por aqui, portando ele esta no meu drive, na qual estou deixando o link(https://drive.google.com/file/d/15kENqJ_vMX0k77m6krG6xeRfs-LxM_qn/view?usp=sharing)
+![Max+SizeFile](https://github.com/LeoBoni/Leo-s-Games/assets/89111824/ef7d7afd-cd0e-4d01-b3ee-5fe50e1a9774)
+
 
 Leo-s-Games é um jogo de sobrevivência em primeira pessoa ambientado em um mundo pós-apocalíptico, onde um vazamento de substâncias químicas causou a mutação de humanos em mortos-vivos. O jogo é uma experiência intensa de fuga e sobrevivência, com um ciclo dinâmico de dia e noite, trovoadas assustadoras e uma atmosfera opressiva. O jogador está confinado dentro de um carro em constante movimento, tentando escapar de hordas de zumbis enquanto lida com desafios mecânicos e limitações de recursos.
 
