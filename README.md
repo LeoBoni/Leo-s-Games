@@ -117,3 +117,6 @@ public class LightningManager : MonoBehaviour
         }
     }
 }
+
+Video:
+https://youtu.be/xyAdurkDdBo
