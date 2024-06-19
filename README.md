@@ -3,15 +3,20 @@
 Leo-s-Games é um jogo de sobrevivência em primeira pessoa ambientado em um mundo pós-apocalíptico, onde um vazamento de substâncias químicas causou a mutação de humanos em mortos-vivos. O jogo é uma experiência intensa de fuga e sobrevivência, com um ciclo dinâmico de dia e noite, trovoadas assustadoras e uma atmosfera opressiva. O jogador está confinado dentro de um carro em constante movimento, tentando escapar de hordas de zumbis enquanto lida com desafios mecânicos e limitações de recursos.
 
 Menu principal: Menu
-![image](https://github.com/LeoBoni/Leo-s-Games/assets/89111824/0ee57af0-93c6-462e-9cfa-0f4ff81688dc)
+
+![image](https://github.com/LeoBoni/Leo-s-Games/assets/89111824/d8c6ac5b-76e8-4c46-a460-b22c652d92b7)
+
 
 Carro: Carro
+
 ![image](https://github.com/LeoBoni/Leo-s-Games/assets/89111824/6a2ce504-1751-4c49-a309-6dd236494824)
 
 Dia: Print1
+
 ![image](https://github.com/LeoBoni/Leo-s-Games/assets/89111824/d5948b93-3ff4-4879-b292-90ad46ad348f)
 
 Noite: Print2
+
 ![image](https://github.com/LeoBoni/Leo-s-Games/assets/89111824/1c09ba46-50cf-46f6-80a4-3ba96ae51db6)
 
 Perspectiva:
